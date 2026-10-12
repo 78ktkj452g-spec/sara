@@ -799,7 +799,7 @@ def main():
     make_score(AUDIO)
     proc = subprocess.Popen(
         ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
-         "-r", str(FPS), "-i", "-", "-i", AUDIO, "-c:v", "libx264", "-preset", "slow", "-b:v", "2200k", "-maxrate", "3000k", "-bufsize", "6000k",
+         "-r", str(FPS), "-i", "-", "-i", AUDIO, "-c:v", "libx264", "-preset", "slow", "-b:v", "1700k", "-maxrate", "2300k", "-bufsize", "4600k",
          "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-shortest", "-movflags", "+faststart", OUT],
         stdin=subprocess.PIPE)
     for i in range(FPS * DUR):

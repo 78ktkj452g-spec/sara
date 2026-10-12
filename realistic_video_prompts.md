@@ -1,15 +1,15 @@
 # وصف لقطات الفيديو الواقعي (دقيقتان)
 
-انسخي كل وصف كما هو في أداة توليد فيديو بالذكاء الاصطناعي، مثل Google Veo 3 أو Kling أو Runway Gen-4 أو Hailuo أو Sora.
+يُنسخ كل وصف كما هو إلى أداة توليد فيديو بالذكاء الاصطناعي، مثل Google Veo 3 أو Kling أو Runway Gen-4 أو Hailuo أو Sora.
 الوصف مكتوب بالإنجليزي لأن هذه الأدوات تفهمه أفضل.
 
 ## ثبات شكل المرأة في كل اللقطات
 
-1. ولّدي أولاً **صورة مرجعية** للمرأة بالوصف التالي، في Midjourney أو Ideogram أو ChatGPT:
+1. تُولَّد أولاً **صورة مرجعية** للمرأة بالوصف التالي، في Midjourney أو Ideogram أو ChatGPT:
    > Photorealistic portrait of a fit Arab woman in her early 30s, olive skin, long dark brown hair in a high ponytail, natural makeup, warm confident smile, 85mm lens, soft golden-hour light, ultra-detailed skin texture
-   - إذا تبينها محجبة، بدّلي جملة الشعر بـ: `wearing a sporty black hijab`
-2. استخدمي خيار **Image-to-Video** أو **Character reference** وارفعي الصورة نفسها مع كل لقطة.
-3. أضيفي لنهاية كل وصف: `photorealistic, cinematic, 4K, shot on ARRI Alexa, natural motion, no text`
+   - لنسخة محجبة، تُستبدل جملة الشعر بـ: `wearing a sporty black hijab`
+2. مع كل لقطة يُستخدم خيار **Image-to-Video** أو **Character reference** وتُرفع الصورة نفسها.
+3. يُضاف لنهاية كل وصف: `photorealistic, cinematic, 4K, shot on ARRI Alexa, natural motion, no text`
 
 ## اللقطات (١٢ لقطة × ١٠ ثوانٍ = ١٢٠ ثانية)
 
@@ -30,10 +30,10 @@
 
 ## الموسيقى المحفزة
 
-- **مجاناً:** مكتبة YouTube Audio Library أو Pixabay Music. ابحثي عن `motivational`، `upbeat workout` أو `inspiring corporate`.
-- **بالذكاء الاصطناعي:** في Suno أو Udio اكتبي:
+- **مجاناً:** مكتبة YouTube Audio Library أو Pixabay Music. البحث عن `motivational`، `upbeat workout` أو `inspiring corporate`.
+- **بالذكاء الاصطناعي:** في Suno أو Udio بهذا الوصف:
   > Uplifting motivational electronic pop instrumental, 124 BPM, energetic drums, inspiring synths, morning workout energy building to a confident finale, 2 minutes
 
 ## التجميع
 
-في CapCut: رتّبي اللقطات من ١ إلى ١٢، وأضيفي الموسيقى، والنصوص العربية لو تبين (مثلاً "٦:٠٠ صباحاً — جري على البحر")، وانتقالات بسيطة. بعدها صدّري الفيديو بدقة 1080p أو 4K.
+في CapCut: تُرتَّب اللقطات من ١ إلى ١٢، وتُضاف الموسيقى، ونصوص عربية عند الرغبة (مثلاً "٦:٠٠ صباحاً — جري على البحر")، وانتقالات بسيطة. بعدها يُصدَّر الفيديو بدقة 1080p أو 4K.
